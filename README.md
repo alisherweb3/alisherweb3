@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<-- ### Hi there 👋, my name is Asqarbek Olimov
+### Hi there 👋, my name is Alisher Radjabov
 #### I am Frontend and MERN Stack developer
 ![I am Frontend and MERN Stack developer](https://raw.githubusercontent.com/AsqarbekOlimov/AsqarbekOlimov/f14db3be136ef2368fc6ffb4a8f33a7880013f05/Coder.gif)
 
@@ -31,22 +31,21 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-- 🔭 I’m currently working on this page.https://asqarbekolimov.github.io/JavaScript-practice/ 
-- 📫 How to reach me: asqarbekolimov.dev@gmail.com 
+- 🔭 I’m currently working on this page.https://alisherweb3.github.io/JavaScript-practice/ 
+- 📫 How to reach me: my@aradjabov.ru
 
 
 
 ## Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asqarbekolimov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asqarbekolimov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/olimovasqarbek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asqarbek_olimov/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alisherweb3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alisherweb3/)  
 
 
 ## GitHub statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsqarbekOlimov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisherweb3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsqarbekOlimov&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherweb3&show_icons=true&count_private=true)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AsqarbekOlimov)  
--->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alisherweb3)  
