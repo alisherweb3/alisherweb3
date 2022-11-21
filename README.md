@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Suprefuturism
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Suprefuturism - suprefuturism.uz
+- 🌱 I’m currently learning Programming
+- 👯 I’m looking to collaborate on NFT
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Future Fintech
+- 📫 How to reach me: my@aradjabov.ru
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i don't know nothing
 
 ### Hi there 👋, my name is Alisher Radjabov
 #### I am Frontend and MERN Stack developer
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on this page.https://alisherweb3.github.io/JavaScript-practice/ 
-- 📫 How to reach me: my@aradjabov.ru
 
 
 
