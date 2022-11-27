@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**alisherweb3/alisherweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ web3 ✨
 
 Here are some ideas to get you started:
 
@@ -31,8 +30,7 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-- 🔭 I’m currently working on this page.https://alisherweb3.github.io/JavaScript-practice/ 
-
+- 🔭 I’m currently working on Suprefuturism
 
 
 ## Social Media
