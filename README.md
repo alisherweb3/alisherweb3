@@ -1,21 +1,17 @@
-### Hi there 👋
-
-✨ web3 ✨
+# ✨ web3 ✨
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Suprefuturism - suprefuturism.uz
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming languages javascript, python, julia and rust
 - 👯 I’m looking to collaborate on NFT
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with FinTech projects
 - 💬 Ask me about Future Fintech
 - 📫 How to reach me: my@aradjabov.ru
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i don't know nothing
 
 ### Hi there 👋, my name is Alisher Radjabov
-#### I am Frontend and MERN Stack developer
-![I am Frontend and MERN Stack developer](https://raw.githubusercontent.com/AsqarbekOlimov/AsqarbekOlimov/f14db3be136ef2368fc6ffb4a8f33a7880013f05/Coder.gif)
+#### I am DevOps
 
 
 ## Skills
@@ -29,9 +25,6 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
-
-- 🔭 I’m currently working on Suprefuturism
-
 
 ## Social Media
 
