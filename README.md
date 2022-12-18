@@ -1,19 +1,6 @@
 # ✨ web3 ✨
 
-//* Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Suprefuturism - suprefuturism.uz
-- 🌱 I’m currently learning Programming languages javascript, python, julia and rust
-- 👯 I’m looking to collaborate on NFT
-- 🤔 I’m looking for help with FinTech projects
-- 💬 Ask me about Future Fintech
-- 📫 How to reach me: my@aradjabov.ru
-- ⚡ Fun fact: i don't know nothing
-
-### Hi there 👋, my name is Alisher Radjabov
-#### I am DevOps
-
-*//
 ## Skills
 
 <p align="left">
