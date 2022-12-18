@@ -1,6 +1,6 @@
 # ✨ web3 ✨
 
-Here are some ideas to get you started:
+//* Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Suprefuturism - suprefuturism.uz
 - 🌱 I’m currently learning Programming languages javascript, python, julia and rust
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Alisher Radjabov
 #### I am DevOps
 
-
+*//
 ## Skills
 
 <p align="left">
