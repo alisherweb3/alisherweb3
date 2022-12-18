@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ## GitHub statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisherweb3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisherweb3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherweb3&show_icons=true&theme=dark&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alisherweb3)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alisherweb3&theme=dark)  
