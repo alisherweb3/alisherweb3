@@ -23,7 +23,16 @@
   <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
   <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/></a>
   <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-
+  <a href="https://jupyter.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="docker" width="40" height="40"/></a>
+  
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
+ 
 </p>
 
 ## Social Media
