@@ -26,16 +26,13 @@
   <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://jupyter.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="docker" width="40" height="40"/></a>
-  
-  [![sololearn](https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png)](https://www.sololearn.com/profile/14589513)
-  
+  <a href="https://www.sololearn.com/profile/14589513" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png" alt="docker" width="40" height="40"/></a>
+  <!--
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
- 
+  -->
 </p>
 
 ## Social Media
