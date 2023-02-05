@@ -47,3 +47,7 @@
 ![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherweb3&show_icons=true&theme=dark&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alisherweb3&theme=dark)  
+
+### 🏆 Моя статистика с Codewars:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/alisherweb3/badges/large)](https://www.codewars.com/users/alisherweb3)
+
