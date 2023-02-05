@@ -1,4 +1,4 @@
-# ✨ web3 ✨ [![Discord chat](https://img.shields.io/discord/846624424199061524.svg?logo=discord&style=flat)](https://discord.gg//x6Usj2Ah)
+# ✨ web3 ✨ [![Discord chat](https://img.shields.io/discord/846624424199061524.svg?logo=discord&style=flat)](https://discord.gg/dPpmfxdJGn)
 
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
