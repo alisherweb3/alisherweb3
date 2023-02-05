@@ -29,7 +29,7 @@
   
 ## 📚 Education  
   <a href="https://www.sololearn.com/profile/14589513" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png" alt="docker" width="40" height="40"/></a>
-  
+  <!--
   https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
   
   <!--
