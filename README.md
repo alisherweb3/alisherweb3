@@ -20,13 +20,13 @@
   
 ## Education  
   <a href="https://www.sololearn.com/profile/14589513" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.coursera.org/user/de1e7c9864e95dd6cdd1aba6b0aa3329" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera"/></a>
+
+  <!--
   <!--
   https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
   
   -->
-  <a href="https://www.coursera.org/user/de1e7c9864e95dd6cdd1aba6b0aa3329" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="docker" width="40" height="40"/></a>
-
-  <!--
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
