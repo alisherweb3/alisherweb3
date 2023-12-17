@@ -23,8 +23,10 @@
   <!--
   https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
   
+  -->
+  <a href="https://www.coursera.org/user/de1e7c9864e95dd6cdd1aba6b0aa3329" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="docker" width="40" height="40"/></a>
+
   <!--
-  <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos//-icon.svg" alt="docker" width="40" height="40"/></a>
